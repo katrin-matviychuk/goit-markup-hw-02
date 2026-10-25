@@ -21,7 +21,9 @@
         letter-spacing: 0.02em;
         color: #2e2f42;
 }
-.menu-link a:hover, a:focus, a:active {
+.menu-link a:hover,
+.menu-link a:focus, 
+.menu-link a:active {
     color: #404bbf;
 }
 .contact a {
@@ -32,6 +34,8 @@
         letter-spacing: 0.02em;
         color: #434455;
 }
-.contact a:hover, a:focus, a:active {
+.contact a:hover, 
+.contact a:focus, 
+.contact a:active {
     color: #404bbf;
 }
