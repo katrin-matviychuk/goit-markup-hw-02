@@ -13,7 +13,7 @@
     color: #4d5ae5;
 }
 
-.menu-link li {
+.menu-link a {
     font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 16px;
@@ -21,10 +21,10 @@
         letter-spacing: 0.02em;
         color: #2e2f42;
 }
-.menu-link li:hover, li:focus, li:active {
+.menu-link a:hover, a:focus, a:active {
     color: #404bbf;
 }
-.contact li {
+.contact a {
     font-family: "Roboto", sans-serif;
         font-weight: 400;
         font-size: 16px;
@@ -32,9 +32,6 @@
         letter-spacing: 0.02em;
         color: #434455;
 }
-.contact li:hover, li:focus, li:active {
+.contact a:hover, a:focus, a:active {
     color: #404bbf;
-}
-.hero .button:hover, .button:focus {
-    background: #404bbf;
 }

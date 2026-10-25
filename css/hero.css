@@ -10,6 +10,10 @@
         text-align: center;
         color: #fff;
 }
+.hero .button {
+    cursor: pointer;
+}
+
 .button {
     background: #4d5ae5;
     font-family: "Roboto", sans-serif;
@@ -19,3 +23,8 @@
         letter-spacing: 0.04em;
         color: #fff;
 }   
+
+.button:hover,
+.button:focus {
+    background: #404bbf;
+}
